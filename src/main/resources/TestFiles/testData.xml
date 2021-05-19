@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pages id="TestData">
+	<page name="Login">
+		<username>0511223344</username>
+		<password>123456</password>
+	</page>
+</pages>

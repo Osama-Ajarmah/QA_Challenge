@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suit1]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Smoke(failed)">
+    <classes>
+      <class name="com.syarah.smoke.Login">
+        <methods>
+          <include name="takeScreenShotOnFailure"/>
+          <include name="login"/>
+          <include name="startBrowser"/>
+          <include name="stopDriver"/>
+        </methods>
+      </class> <!-- com.syarah.smoke.Login -->
+    </classes>
+  </test> <!-- Smoke(failed) -->
+</suite> <!-- Failed suite [Suit1] -->

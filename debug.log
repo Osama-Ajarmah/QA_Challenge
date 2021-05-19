@@ -1,0 +1,2 @@
+[0720/135835.619:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Osama\AppData\Local\Temp\scoped_dir28076_32050\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0803/123514.656:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Osama\AppData\Local\Temp\scoped_dir16796_3659\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)

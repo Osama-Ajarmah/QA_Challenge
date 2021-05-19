@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pages id="TestData">
+	<page name="Login">
+	                 
+		<username_txt>//*[@id="userloginform-phonenumber"]</username_txt>
+		<password_txt>//*[@id="userloginform-password"]</password_txt>
+		<login_btn>//*[@id="form-login"]/div[4]/div[2]/p/button</login_btn>
+		 <regist_btn>/html/body/div[1]/div/div/div[2]/a[4]/div</regist_btn> 
+		 <nameLocation>//*[@id="my_adds_tab"]/div</nameLocation> 
+	</page>
+</pages>
