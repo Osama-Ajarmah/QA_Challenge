@@ -2,40 +2,40 @@
 <testng-results ignored="0" total="9" passed="7" failed="2" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-05-19T05:54:15 PDT" name="Default suite" finished-at="2021-05-19T05:54:26 PDT" duration-ms="11103">
+  <suite started-at="2021-05-19T19:21:19 EEST" name="Default suite" finished-at="2021-05-19T19:21:31 EEST" duration-ms="12227">
     <groups>
     </groups>
-    <test started-at="2021-05-19T05:54:15 PDT" name="Default test" finished-at="2021-05-19T05:54:26 PDT" duration-ms="11103">
+    <test started-at="2021-05-19T19:21:19 EEST" name="Default test" finished-at="2021-05-19T19:21:31 EEST" duration-ms="12227">
       <class name="com.api.test.QAchallengeTest">
-        <test-method signature="fetchResultBySearch()[pri:1, instance:com.api.test.QAchallengeTest@74e28667]" started-at="2021-05-19T05:54:15 PDT" name="fetchResultBySearch" finished-at="2021-05-19T05:54:19 PDT" duration-ms="3379" status="PASS">
+        <test-method signature="fetchResultBySearch()[pri:1, instance:com.api.test.QAchallengeTest@2034b64c]" started-at="2021-05-19T19:21:19 EEST" name="fetchResultBySearch" finished-at="2021-05-19T19:21:23 EEST" duration-ms="3583" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fetchResultBySearch -->
-        <test-method signature="fetchResultBySearchWithFillters()[pri:2, instance:com.api.test.QAchallengeTest@74e28667]" started-at="2021-05-19T05:54:19 PDT" name="fetchResultBySearchWithFillters" finished-at="2021-05-19T05:54:19 PDT" duration-ms="854" status="PASS">
+        <test-method signature="fetchResultBySearchWithFillters()[pri:2, instance:com.api.test.QAchallengeTest@2034b64c]" started-at="2021-05-19T19:21:23 EEST" name="fetchResultBySearchWithFillters" finished-at="2021-05-19T19:21:23 EEST" duration-ms="850" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fetchResultBySearchWithFillters -->
-        <test-method signature="fetchResultBySearchWithCity()[pri:3, instance:com.api.test.QAchallengeTest@74e28667]" started-at="2021-05-19T05:54:19 PDT" name="fetchResultBySearchWithCity" finished-at="2021-05-19T05:54:20 PDT" duration-ms="595" status="PASS">
+        <test-method signature="fetchResultBySearchWithCity()[pri:3, instance:com.api.test.QAchallengeTest@2034b64c]" started-at="2021-05-19T19:21:23 EEST" name="fetchResultBySearchWithCity" finished-at="2021-05-19T19:21:24 EEST" duration-ms="593" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fetchResultBySearchWithCity -->
-        <test-method signature="fetchResultWithPagination()[pri:4, instance:com.api.test.QAchallengeTest@74e28667]" started-at="2021-05-19T05:54:20 PDT" name="fetchResultWithPagination" finished-at="2021-05-19T05:54:21 PDT" duration-ms="614" status="PASS">
+        <test-method signature="fetchResultWithPagination()[pri:4, instance:com.api.test.QAchallengeTest@2034b64c]" started-at="2021-05-19T19:21:24 EEST" name="fetchResultWithPagination" finished-at="2021-05-19T19:21:25 EEST" duration-ms="725" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fetchResultWithPagination -->
-        <test-method signature="fetchResultByLat()[pri:5, instance:com.api.test.QAchallengeTest@74e28667]" started-at="2021-05-19T05:54:21 PDT" name="fetchResultByLat" finished-at="2021-05-19T05:54:22 PDT" duration-ms="1805" status="PASS">
+        <test-method signature="fetchResultByLat()[pri:5, instance:com.api.test.QAchallengeTest@2034b64c]" started-at="2021-05-19T19:21:25 EEST" name="fetchResultByLat" finished-at="2021-05-19T19:21:27 EEST" duration-ms="2319" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fetchResultByLat -->
-        <test-method signature="fetchResultByLatandLongWithLocation()[pri:6, instance:com.api.test.QAchallengeTest@74e28667]" started-at="2021-05-19T05:54:22 PDT" name="fetchResultByLatandLongWithLocation" finished-at="2021-05-19T05:54:24 PDT" duration-ms="1146" status="PASS">
+        <test-method signature="fetchResultByLatandLongWithLocation()[pri:6, instance:com.api.test.QAchallengeTest@2034b64c]" started-at="2021-05-19T19:21:27 EEST" name="fetchResultByLatandLongWithLocation" finished-at="2021-05-19T19:21:29 EEST" duration-ms="1675" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fetchResultByLatandLongWithLocation -->
-        <test-method signature="fetchResultByFullTime()[pri:7, instance:com.api.test.QAchallengeTest@74e28667]" started-at="2021-05-19T05:54:24 PDT" name="fetchResultByFullTime" finished-at="2021-05-19T05:54:25 PDT" duration-ms="1449" status="PASS">
+        <test-method signature="fetchResultByFullTime()[pri:7, instance:com.api.test.QAchallengeTest@2034b64c]" started-at="2021-05-19T19:21:29 EEST" name="fetchResultByFullTime" finished-at="2021-05-19T19:21:30 EEST" duration-ms="1136" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fetchResultByFullTime -->
-        <test-method signature="fetchResultById()[pri:8, instance:com.api.test.QAchallengeTest@74e28667]" started-at="2021-05-19T05:54:25 PDT" name="fetchResultById" finished-at="2021-05-19T05:54:26 PDT" duration-ms="636" status="FAIL">
+        <test-method signature="fetchResultById()[pri:8, instance:com.api.test.QAchallengeTest@2034b64c]" started-at="2021-05-19T19:21:30 EEST" name="fetchResultById" finished-at="2021-05-19T19:21:31 EEST" duration-ms="681" status="FAIL">
           <exception class="com.google.gson.JsonSyntaxException">
             <message>
               <![CDATA[com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 12 path $]]>
@@ -86,7 +86,7 @@ at com.google.gson.JsonParser.parse(JsonParser.java:60)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fetchResultById -->
-        <test-method signature="fetchResultByIdandMarkdown()[pri:9, instance:com.api.test.QAchallengeTest@74e28667]" started-at="2021-05-19T05:54:26 PDT" name="fetchResultByIdandMarkdown" finished-at="2021-05-19T05:54:26 PDT" duration-ms="585" status="FAIL">
+        <test-method signature="fetchResultByIdandMarkdown()[pri:9, instance:com.api.test.QAchallengeTest@2034b64c]" started-at="2021-05-19T19:21:31 EEST" name="fetchResultByIdandMarkdown" finished-at="2021-05-19T19:21:31 EEST" duration-ms="623" status="FAIL">
           <exception class="com.google.gson.JsonSyntaxException">
             <message>
               <![CDATA[com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 12 path $]]>
