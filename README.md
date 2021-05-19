@@ -1,4 +1,4 @@
-# Data-driven API Test with Rest Assured, TestNG and ExtentReport integrated
+# API Test with Rest Assured, TestNG 
 
 ## Tools and APIs
 1. Eclips IDE
